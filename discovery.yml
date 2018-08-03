@@ -1,5 +1,6 @@
 server:
   port: 8761
+spring.boot.admin.context-path: /admin
 eureka:
   instance:
     hostname: localhost
